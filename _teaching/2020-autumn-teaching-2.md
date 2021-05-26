@@ -1,9 +1,9 @@
 ---
-title: "Selected topics in Data Science and Machine Learning"
+title: "Statistical and artificial intelligence methods in data analysis"
 collection: teaching
-type: "Course for PhD students in the frame of the Graduate School of Physics and Chemistry"
-permalink: /teaching/2020-autumn-teaching-1
-link: http://antykoza.if.uj.edu.pl/~krzemien/machine_learning2021/ 
+type: "Course for PhD students in the frame of the  Interdisciplinary PhD Programme RadFarm"
+permalink: /teaching/2020-autumn-teaching-2
+link: http://antykoza.if.uj.edu.pl/~krzemien/radFarm2021/ 
 venue: "National Centre for Nuclear Research (NCBJ)"
 date: 2020-01-01
 location: "Warsaw, Poland"
