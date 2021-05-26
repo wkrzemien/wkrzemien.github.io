@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wojciech Krzemien / Site Title"
+title                    : "Wojciech Krzemien"
 title_separator          : "-"
 name                     : &name "Wojciech Krzemien"
 description              : &description "personal description"
