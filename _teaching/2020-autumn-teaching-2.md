@@ -8,7 +8,7 @@ venue: "National Centre for Nuclear Research (NCBJ)"
 date: 2020-01-01
 location: "Warsaw, Poland"
 ---
-Lectures and classes (this time virtual) including exercises and programming assignments for PhD students.
+Lectures and classes (this time virtual) including exercises and programming assignments.
 
 Heading 1
 ======
