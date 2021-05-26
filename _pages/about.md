@@ -19,3 +19,8 @@ redirect_from:
 <br> POLAND
 <br> e-mail:<a href="mailto:wojciech.krzemien@ncbj.gov.pl">wojciech.krzemien@ncbj.gov.pl</a><br>
 
+# Profile on <a href="https://inspirehep.net/authors/1061521">HEP-Inspire</a><br>
+# List of my <a href="http://koza.if.uj.edu.pl/staff/wkrzemien">publications</a> at J-PET website (probably not fully updated)<br>
+
+
+

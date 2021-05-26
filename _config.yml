@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wojciech Krzemien"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              :   
   location         : "Warsaw/Cracow, Poland"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/wojciech-krzemien-36a0a43"
+  linkedin         : "wojciech-krzemien-36a0a43"
   orcid            : "https://orcid.org/0000-0002-9546-358X"
   pinterest        :
   soundcloud       :
