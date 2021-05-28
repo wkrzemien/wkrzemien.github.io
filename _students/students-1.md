@@ -1,12 +1,19 @@
 ---
-title: "Students projects and supervision (in Polish)"
-collection:students
-permalink: /students/students-1
+title: "Tests"
+collection: students
+type: "Test"
+permalink: /students/students-2
 venue: "National Centre for Nuclear Research (NCBJ)"
 date: 2020-01-01
 location: "Warsaw, Poland"
 ---
+
 Students Projects  
+
+Headings
+===
+
+Subheadings
 
 Proponowane tematy projektów studenckich, prac licencjackich i magisterskich
 ============================================================================
