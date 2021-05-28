@@ -1,7 +1,10 @@
 ---
 title: "Students projects and supervision (in Polish)"
-collection: students
+collection:students
 permalink: /students/students-1
+venue: "National Centre for Nuclear Research (NCBJ)"
+date: 2020-01-01
+location: "Warsaw, Poland"
 ---
 Students Projects  
 
