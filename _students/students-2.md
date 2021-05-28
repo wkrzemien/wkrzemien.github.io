@@ -1,8 +1,8 @@
 ---
 title: "Selected topics in Data Science and Machine Learning"
-collection: teaching
+collection: students
 type: "Course for PhD students in the frame of the Graduate School of Physics and Chemistry"
-permalink: /students/student-2
+permalink: /students/students-2
 link: http://antykoza.if.uj.edu.pl/~krzemien/machine_learning2021/ 
 venue: "National Centre for Nuclear Research (NCBJ)"
 date: 2020-01-01
