@@ -15,22 +15,20 @@ LHCb
 
 In English:
 
-*   General announcement - [Details](projekty_propozycje/lhcb_general_eng.pdf)
-*   Physics - [Details](projekty_propozycje/lhcb_fizyka_eng.pdf)
+*   General announcement - [Details](../projekty_propozycje/lhcb_general_eng.pdf)
+*   Physics - [Details](../projekty_propozycje/lhcb_fizyka_eng.pdf)
 
 Po polsku:
 
-*   Ogłoszenie ogólne dla studentów fizyki, informatyki i kierunków pokrewnych - [Opis](projekty_propozycje/lhcb_general_pl.pdf)
-*   Rozwój oprogramowania do rekonstrukcji i przetwarzania danych (C++) - [Opis](projekty_propozycje/lhcb_softUpgrade.pdf)
-*   Rozwój oprogramowania w ramach platformy do obliczeń rozproszonych DIRAC (Python/Tornado/ElasticSearch/C++) - [Opis](projekty_propozycje/dirac.pdf)
-*   Poszukiwanie odstępstw od Modelu Standardowego - łamania symetrii CPT w układach mezonów - [Opis](projekty_propozycje/lhcb_fizyka.pdf)
+*   Ogłoszenie ogólne dla studentów fizyki, informatyki i kierunków pokrewnych - [Opis](../projekty_propozycje/lhcb_general_pl.pdf)
+*   Poszukiwanie odstępstw od Modelu Standardowego - łamania symetrii CPT w układach mezonów - [Opis](../projekty_propozycje/lhcb_fizyka.pdf)
 
 W ramach projektu J-PET:
 ------------------------
 
-*   Zastosowanie metod uczenia maszynowego do klasyfikacji zdarzeń wielofotonowych [Opis](projekty_propozycje/pet_machine_learning.pdf)
-*   Tomografia trzyfotonowa (Monte Carlo, C++) - [Opis](projekty_propozycje/pet_framework_3photonTomography.pdf)
-*   Rozwój oprogramowania do tomografu J-PET (C++, Python) [Opis](projekty_propozycje/pet_general.pdf)
+*   Zastosowanie metod uczenia maszynowego do klasyfikacji zdarzeń wielofotonowych [Opis](../projekty_propozycje/pet_machine_learning.pdf)
+*   Tomografia trzyfotonowa (Monte Carlo, C++) - [Opis](../projekty_propozycje/pet_framework_3photonTomography.pdf)
+*   Rozwój oprogramowania do tomografu J-PET (C++, Python) [Opis](../projekty_propozycje/pet_general.pdf)
 
 ### Pozostałe tematy w ramach J-PETa:
 
@@ -40,19 +38,20 @@ W ramach projektu J-PET:
 Inne:
 -----
 
-*   Generatory pseudolosowe w fizyce i w kryptografii - [Opis](projekty_propozycje/generatory.pdf)
-*   Aplikacja do sciągania i opracowania danych z baz typu HEP Spires (Python) - [Opis](projekty_propozycje/hep_inspire.pdf)
+*   Generatory pseudolosowe w fizyce i w kryptografii - [Opis](../projekty_propozycje/generatory.pdf)
+*   Aplikacja do sciągania i opracowania danych z baz typu HEP Spires (Python) - [Opis](../projekty_propozycje/hep_inspire.pdf)
 
 Projekty w trakcie realizacji:
 ------------------------------
 
 *   Rozwój oprogramowania do symulacji Monte Carlo w ramach pakietu GATE (M. Bała, UJ)
-*   Studia łamania symetrii CPT w układach neutralnych mezonów zapachowych na detektorze LHCb (M. Kmieć, UJ)
-*   W stronę tomografii 2+1 J-PET (Y. Fedorova, PW)
+*   (1) Zastosowanie sieci CNN do kalorymetru elektromagnetycznego LHCb. (2) Rozwój szybkich symulacji w LHCb. (M. Mazurek,  NCBJ)
+*   Poszukiwanie łamania symetrii CPT w układzie powabnych mezonów neutralnych (M. Kmiec,  NCBJ)
 
 Ukończone projekty:
 -------------------
-
+*   Design and implementation of multiphoton detection algorithms for the J-PET scanner (Y. Fedorova, PW - 2021)
+*   Studia łamania symetrii CPT w układach neutralnych mezonów zapachowych na detektorze LHCb (M. Kmieć, UJ - 2020)
 *   Zastosowanie metod uczenia maszynowego do klasyfikacji zdarzen wielofotonowych w skanerze J-PET (J. Bielecki, PW - 2019) - [Praca](http://pet.ncbj.gov.pl/wp-content/uploads/2019/10/JanBieleckiMasterThesis.pdf)
 *   Adaptation of image reconstruction algorithms with time-of-flight for the J-PET tomography scanner (K. Rakoczy, UJ - 2019) - [Thesis](http://pet.ncbj.gov.pl/wp-content/uploads/2019/10/kamil-rakoczy-master-thesis.pdf)
 *   Towards 2+1 photon tomography: Energy-based selection of two 511 keV photons and a prompt photon with the J-PET scanner (R. Maselek, UW - 2018) - [Article](https://arxiv.org/abs/1803.00996)
