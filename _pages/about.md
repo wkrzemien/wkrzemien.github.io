@@ -22,6 +22,7 @@ responsible for the preparation of medical data processing and image
 reconstruction software for the next generation of cost-effective
 total-body PET tomography scanners, and the NCBJ coordinator of the
 National Supercomputing Infrastructure for [EuroHPC PL](https://www.ncbj.gov.pl/en/aktualne/eurohpc-pl-national-supercomputing-infrastructure-eurohpc) project.
+I am a member of the [OpenGate](http://opengatecollaboration.org/) steering committee.
 Last but not least, I am still a curious physicist who wants to
 understand the rules governing the quantum world, engaged in (too many
 ;-))  fundamental researches in the frame of international projects:
