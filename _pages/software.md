@@ -9,7 +9,7 @@ gallery:
 ---
 
 I like coding :-) and I was lucky enough to find a lot of opportunities to join my research activities with programming tasks.
-I have been involved in various scientific projects which included the development of - mostly - open-source programs.
+I have been involved in various scientific projects which included the development of - mostly - open-source programs. I use C++ and Python.
 
 ---
 # J-PET Framework
@@ -51,6 +51,10 @@ The list of the main contributors to DIRAC code can be found under this [link](h
 
 ---
 # Other staff 
+
+Currently, I am involved in the exploratory project of Convolutional Neural Networks application for the LHCb Electromagnetic Calorimeter (ECAL) clusterization algorithm.
+In the past, I coordinated the software activities of the NCBJ group dedicated to the upgrade of the reconstruction algorithms for  ECAL. I also partly participated in the refactorization
+and improvement of the old LHCb code.  
 
 
 
