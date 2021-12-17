@@ -26,7 +26,7 @@ Positron Emission Tomography
 My current PET-related work consists of the coordination of the J-PET Total Body Software group,
 responsible for the preparation of medical data processing and image
 reconstruction software for the next generation of cost-effective
-total-body PET tomography scanners. This involves software development [tools](https://github.com/JPETTomography) including image reconstruction algorithms, Monte Carlo simulations, and applications of the machine learning methods to PET tomography. In the past, I was coordinating the development of data analysis [framework](https://www.sciencedirect.com/science/article/pii/S2352711020300509). I am a member of the OpenGate steering committee since 2019. We are especially focused on the assessment of the total-body scanners and on the development of novel PET methods ,e.g. positronium tomography, using GATE.
+total-body PET tomography scanners. This involves software development [tools](https://github.com/JPETTomography) including image reconstruction algorithms, Monte Carlo simulations, and applications of the machine learning methods to PET tomography. In the past, I was coordinating the development of data analysis [framework](https://www.sciencedirect.com/science/article/pii/S2352711020300509). I am a member of the OpenGate steering committee since 2019. We are especially focused on the assessment of the total-body scanners and on the development of novel PET methods, e.g. positronium tomography, using GATE (see our overview article, published in Physics in Medicine and Biology: [link](https://iopscience.iop.org/article/10.1088/1361-6560/abf276)).
 
 * Image reconstruction algorithms for total-body PET scanners
 * image corrections 
