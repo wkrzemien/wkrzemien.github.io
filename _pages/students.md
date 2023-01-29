@@ -9,11 +9,6 @@ author_profile: true
 Project proposals
 ===
 
-Searches for Mirror Matter as Dark Matter candidate in decays of the ortho-Positronium and precision QED test
----
-
-[Positions](https://mirrormirrorinpbsm.wordpress.com/home/available-positions/) for Master and PhD students at the Jagiellonian University, Cracow -  NCN Sonata Bis grant led by Elena Perez del Rio.
-
 LHCb
 ----
 
@@ -54,17 +49,17 @@ Projects in progress:
 ---
 
 | ------ | ------ | ------ | ------ |
-| M. Kruk| student project, UJ | Development of medical image DICOM converter | 2020- | 
-| B. Kłósak | master student candidate, UJ | Application of Neural Networks for event classification in PET tomography | 2020- | 
+| Szymon Parzych, Dominik Panek | PhD candidates, UJ | Studies of coincidences filtration criteria and random estimates for Total-body J-PET scanner  | 2021- | 
 | M. Kmieć | PhD candidate, NCBJ, co-supervision with prof. W. Wiślicki | Search for CPT violation in charm neutral meson system  | 2020- | 
 | M. Mazurek | PhD candidate, NCBJ, co-supervision with prof. W. Wiślicki | Application of Convolutional Neural Networks for the LHCb electromagnetic calorimeter clusterization and development of fast simulations| 2019- |
-| M. Bała| master student candidate, UJ | Development of Monte Carlo models for J-PET | 2019- | 
 
 
 Projects completed:
 ---
 
 | ------ | ------ | ------ | ------ |
+| B. Kłósak |Master thesis, UJ, in cooperation with dr Elena Perez del Rio, formal supervisor from UJ: dr J. Duda | Klasyfikacja zdarzeń wielofotonowych w pozytonowej tomografii emisyjnej z użyciem technologii total-body J-PET | 2022 | 
+| M. Bała|  Master thesis, UJ, formal supervisor from UJ: dr M. Silarski |Polarization formalisms and quantum entanglement in the positronium systems | 2022 | 
 | Y. Fedorowa | Engineer's thesis, PW, co-supervision with dr K. Pęczalski | Design and implementation of multiphoton detection algorithms for the J-PET scanner | 2021 |
 | M. Kmieć | master thesis, UJ | Studia łamania symetrii CPT w układach neutralnych mezonów zapachowych na detektorze LHCb | 2020 |
 | [J. Bielecki](https://pl.linkedin.com/in/jan-bielecki) | master thesis, PW (co-supervision with dr hab. inż D. Kikoła)  | [Zastosowanie metod uczenia maszynowego do klasyfikacji zdarzen wielofotonowych w skanerze J-PET](http://pet.ncbj.gov.pl/wp-content/uploads/2019/10/JanBieleckiMasterThesis.pdf) | 2020 |
