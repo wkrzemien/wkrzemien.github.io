@@ -50,7 +50,6 @@ Projects in progress:
 
 | ------ | ------ | ------ | ------ |
 | Aurelien Coussat | Post-doc, UJ | Software for Total-body J-PET: component-based normalization for J-PET scanners, various tools for image reconstruction and correction methods | 2022- | 
-| Damian Trybek | Master  candidate, PK | Application of deep learning to mulitiphton classification  | 2022- | 
 | Szymon Parzych, Dominik Panek | PhD candidates, UJ | Studies of coincidences filtration criteria and random estimates for Total-body J-PET scanner  | 2021- | 
 | M. Kmieć | PhD candidate, NCBJ, co-supervision with prof. W. Wiślicki | Search for CPT violation in charm neutral meson system  | 2020- | 
 | M. Mazurek | PhD candidate, NCBJ, co-supervision with prof. W. Wiślicki | Application of Convolutional Neural Networks for the LHCb electromagnetic calorimeter clusterization and development of fast simulations| 2019- |
@@ -60,6 +59,7 @@ Projects completed:
 ---
 
 | ------ | ------ | ------ | ------ |
+| [Damian Trybek]| Master thesis, PK | Application of deep learning methods for event classification in J-PET tomography | 2023 |
 | [Jakub Baran](https://www.linkedin.com/in/jakubbaran) | Post-doc, UJ | Software for Total-body J-PET: MC simulations in view of scanner geometry optimization, various tools for image reconstruction and correction methods | 2021-2023 | 
 | B. Kłósak |Master thesis, UJ, in cooperation with dr Elena Perez del Rio, formal supervisor from UJ: dr J. Duda | Klasyfikacja zdarzeń wielofotonowych w pozytonowej tomografii emisyjnej z użyciem technologii total-body J-PET | 2022 | 
 | M. Bała|  Master thesis, UJ, formal supervisor from UJ: dr M. Silarski |Polarization formalisms and quantum entanglement in the positronium systems | 2022 | 
