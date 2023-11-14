@@ -59,7 +59,7 @@ Projects completed:
 ---
 
 | ------ | ------ | ------ | ------ |
-| [Damian Trybek]| Master thesis, PK | Application of deep learning methods for event classification in J-PET tomography | 2023 |
+| Damian Trybek| Master thesis, PK | Application of deep learning methods for event classification in J-PET tomography | 2023 |
 | [Jakub Baran](https://www.linkedin.com/in/jakubbaran) | Post-doc, UJ | Software for Total-body J-PET: MC simulations in view of scanner geometry optimization, various tools for image reconstruction and correction methods | 2021-2023 | 
 | B. Kłósak |Master thesis, UJ, in cooperation with dr Elena Perez del Rio, formal supervisor from UJ: dr J. Duda | Klasyfikacja zdarzeń wielofotonowych w pozytonowej tomografii emisyjnej z użyciem technologii total-body J-PET | 2022 | 
 | M. Bała|  Master thesis, UJ, formal supervisor from UJ: dr M. Silarski |Polarization formalisms and quantum entanglement in the positronium systems | 2022 | 
