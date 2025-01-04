@@ -33,7 +33,7 @@ and mirror matter searches.
 Between 2021 and 2023 I served as the NCBJ coordinator of the
 National Supercomputing Infrastructure for the [EuroHPC PL](https://www.ncbj.gov.pl/en/projekt/eurohpc-pl-national-supercomputing-infrastructure-eurohpc) project.
 
-Prior, I contributed to the incorporation of the the Message Queue architecture as a part of the [DIRAC](https://dirac.readthedocs.io/en/latest/) interware.
+Prior, I contributed to the incorporation of the Message Queue architecture as a part of the [DIRAC](https://dirac.readthedocs.io/en/latest/) interware.
 Earlier in my career, I was involved in the [KLOE-2](http://w3.lnf.infn.it/research/particle-physics/kloe-2/?lang=en), WASA-at-COSY and COSY-11 collaborations.
 
 I am fluent in English, French, Spanish and Polish.
