@@ -21,6 +21,9 @@ Last but not least, I am a curious physicist who wants to
 understand the rules governing the quantum world, engaged in (too many
 ;-))  fundamental research including tests of discrete symmetries and quantum entanglement. 
 
+I am currently the leader of the IMPET (Industrial Multiphoton PET) project, focused on developing novel tomography techniques 
+supported by artificial intelligence for industrial applications.
+
 From 2011 to 2024 I was a member of the [J-PET](http://koza.if.uj.edu.pl/pet/) collaboration.
 I led the Total Body Software Group,
 responsible for preparing  medical data processing and image
