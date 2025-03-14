@@ -13,11 +13,9 @@ My main interests are focused on novel imaging algorithms and their applications
 * mirror matter searches 
 * searches for new type of nuclear matter 
 
-### Methods and applied studies:
+### Methods ans applied studies:
 ---
 * scientific software development
-* Monte Carlo techniques 
-* Machine Learning applications 
 * industrial applications for PET imaging 
 * novel image reconstruction algorithms for PET tomography 
 
