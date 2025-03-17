@@ -30,7 +30,7 @@ CPT is one of the fundamental symmetries embedded in the Standard Model of inter
 
 In our research published in [Physics Review D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.055021), we set new limits on the CPTV parameters in charm meson oscillations by taking advantage of the world's largest dataset of D0 mesons collected by the LHCb collaboration. Our results provide the most stringent constraints on CPT symmetry violation in the charm sector - two orders of magnitude tighter than previous bounds.
 
-limits on particle-antiparticle decay width difference for three neutral meson flavour families|  limits on particle-antiparticle mass difference in the charm sector
+limits on particle-antiparticle decay width difference for three neutral flavour meson families|  limits on particle-antiparticle mass difference in the charm sector
 :----------------------:|:----------------------:
  ![](/images/cpt/dG_in_sectors-1.png) |![](/images/cpt/deltam-1.png)
 
@@ -61,6 +61,8 @@ Till 2024, I was involved in the coordination of the J-PET Total Body Software g
 responsible for the preparation of medical data processing and image
 reconstruction software for the next generation of cost-effective
 total-body PET tomography scanners. This involved software development [tools](https://github.com/JPETTomography), including image reconstruction algorithms, Monte Carlo simulations, and applications of the machine learning methods to PET tomography. Previously, I coordinated the development of data analysis [framework](https://www.sciencedirect.com/science/article/pii/S2352711020300509). 
+
+<!--[Medical Physics](https://onlinelibrary.wiley.com/share/author/TIMWB9IG3TXSQWSUDANR?target=10.1002/mp.17627)-->
 
 
 ## Other projects:
