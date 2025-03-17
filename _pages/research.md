@@ -30,6 +30,10 @@ CPT is one of the fundamental symmetries embedded in the Standard Model of inter
 
 In our research published in [Physics Review D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.055021), we set new limits on the CPTV parameters in charm meson oscillations by taking advantage of the world's largest dataset of D0 mesons collected by the LHCb collaboration. Our results provide the most stringent constraints on CPT symmetry violation in the charm sector - two orders of magnitude tighter than previous bounds.
 
+limits on particle-antiparticle decay width difference for three neutral meson flavour families|  limits on particle-antiparticle mass difference in the charm sector
+:----------------------:|:----------------------:
+ ![](/images/cpt/dG_in_sectors-1.png) |![](/images/cpt/deltam-1.png)
+
 <a name="anchor-impet"></a>
 ## IMPET
 (Description should be added soon)
