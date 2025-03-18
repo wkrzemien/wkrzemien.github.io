@@ -8,7 +8,7 @@ My main interests are focused on novel imaging algorithms and their applications
 
 ### Fundamental Physics
 ---
-* searches for discrete symmetry violations ([cpt](#anchor-discrete))
+* searches for discrete symmetry violations ([CPT](#anchor-discrete))
 * quantum correlations in (relatively) high-energy photon systems 
 * mirror matter searches 
 * searches for new type of nuclear matter 
@@ -16,7 +16,7 @@ My main interests are focused on novel imaging algorithms and their applications
 ### Methods ans applied studies:
 ---
 * scientific software development
-* industrial applications for PET imaging 
+* industrial applications for PET imaging ([IMPET](#anchor-impet))
 * novel image reconstruction algorithms for PET tomography 
 
 # Projects:
