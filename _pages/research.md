@@ -35,8 +35,10 @@ limits on particle-antiparticle decay width difference for three neutral flavour
  ![](/images/cpt/dG_in_sectors-1.png) |![](/images/cpt/deltam-1.png)
 
 <a name="anchor-impet"></a>
-## IMPET
+## IMPET (Industrial Multiphoton PET Tomography)
 (Description should be added soon)
+
+![](/images/impet/post1-min.png)
 
 <a name="anchor-eurohpc"></a>
 ## EuroHPC PL:
