@@ -66,7 +66,15 @@ responsible for the preparation of medical data processing and image
 reconstruction software for the next generation of cost-effective
 total-body PET tomography scanners. This involved software development [tools](https://github.com/JPETTomography), including image reconstruction algorithms, Monte Carlo simulations, and applications of the machine learning methods to PET tomography. Previously, I coordinated the development of data analysis [framework](https://www.sciencedirect.com/science/article/pii/S2352711020300509). 
 
-<!--[Medical Physics](https://onlinelibrary.wiley.com/share/author/TIMWB9IG3TXSQWSUDANR?target=10.1002/mp.17627)-->
+
+In this study published in [Medical Physics](https://onlinelibrary.wiley.com/share/author/TIMWB9IG3TXSQWSUDANR?target=10.1002/mp.17627), we optimized the total-body J-PET geometry for both two-gamma and multi-gamma tomography using Monte Carlo simulations.
+
+:----------------------:|:----------------------:
+ ![](/images/total_geometry/Fig2-1-1.png) |![](/images/total_geometry/Fig2bis-1-1.png)
+
+ ![](/images/total_geometry/Fig10_update-1.png) 
+
+
 
 
 ## Other projects:
