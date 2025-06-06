@@ -28,7 +28,7 @@ My interests are focused on the experimental testing of discrete symmetries in (
 
 CPT is one of the fundamental symmetries embedded in the Standard Model of interactions, thought to be exactly conserved by Nature. However, small CPT-violating (CPTV) effects are admissible in several theories beyond the Standard Model. One of the most sensitive methods to experimentally search for the CPTV effects is by studying the flavour mesons oscillations, approaching the precision of the Planck scale.
 
-In our research published in [Physics Review D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.055021), we set new limits on the CPTV parameters in charm meson oscillations by taking advantage of the world's largest dataset of D0 mesons collected by the LHCb collaboration. Our results provide the most stringent constraints on CPT symmetry violation in the charm sector - two orders of magnitude tighter than previous bounds.
+In our research published in [Physics Review D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.055021), we set new limits on the CPTV parameters in charm meson oscillations by taking advantage of the world's largest dataset of D0 mesons collected by the LHCb collaboration. Our results provide the most stringent constraints on CPT symmetry violation in the charm sector - two orders of magnitude tighter than previous bounds. Our results were incorporated into the 2025 edition of the [Particle Data Group](https://pdglive.lbl.gov/DataBlock.action?node=S032CPT) review.  
 
 limits on particle-antiparticle decay width difference for three neutral flavour meson families|  limits on particle-antiparticle mass difference in the charm sector
 :----------------------:|:----------------------:
