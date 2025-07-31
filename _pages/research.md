@@ -52,7 +52,7 @@ Link to the project [website](https://pet.ncbj.gov.pl/)
 From 2021 to 2023, I was the NCBJ coordinator of the
 National Supercomputing Infrastructure for [EuroHPC PL](https://www.ncbj.gov.pl/en/projekt/eurohpc-pl-national-supercomputing-infrastructure-eurohpc) project.
 
-![](/images/eurohpc/platform_v2-1-min.png)
+![](/images/eurohpc/platform_v2-1-min.jpeg)
 
 <a name="anchor-jpet"></a>
 ## Positron Emission Tomography
