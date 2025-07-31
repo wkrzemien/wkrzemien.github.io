@@ -42,7 +42,7 @@ limits on particle-antiparticle decay width difference for three neutral flavour
 
 <a name="anchor-impet"></a>
 ## IMPET (Industrial Multiphoton PET Tomography)
-(Description should be added soon)
+Link to the project [website](https://pet.ncbj.gov.pl/)
 
 ![](/images/impet/post1-min.png)
 

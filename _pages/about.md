@@ -21,7 +21,7 @@ Last but not least, I am a curious physicist who wants to
 understand the rules governing the quantum world, engaged in (too many
 ;-))  fundamental research including tests of discrete symmetries and quantum entanglement. 
 
-I am the leader of the First Team FENG project, IMPET (Industrial Multiphoton PET Tomography), funded by the Foundation for Polish Science. 
+I am the leader of the First Team FENG project, [IMPET](https://pet.ncbj.gov.pl/) (Industrial Multiphoton PET Tomography), funded by the Foundation for Polish Science. 
 IMPET focuses on developing AI-enhanced solutions for industrial imaging with high temporal resolution.
 
 From 2011 to 2024 I was a member of the [J-PET](http://koza.if.uj.edu.pl/pet/) collaboration.
