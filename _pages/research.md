@@ -75,9 +75,9 @@ total-body PET tomography scanners. This involved software development [tools](h
 In this study published in [Medical Physics](https://onlinelibrary.wiley.com/share/author/TIMWB9IG3TXSQWSUDANR?target=10.1002/mp.17627), we optimized the total-body J-PET geometry for both two-gamma and multi-gamma tomography using Monte Carlo simulations.
 
 :----------------------:|:----------------------:
- ![](/images/total_geometry/Fig2-1-1.png) |![](/images/total_geometry/Fig2bis-1-1.png)
+ ![](/images/total_geometry/Fig2-1-1.jpeg) |![](/images/total_geometry/Fig2bis-1-1.jpeg)
 
- ![](/images/total_geometry/Fig10_update-1.png) 
+ ![](/images/total_geometry/Fig10_update-1.jpeg) 
 
 
 
