@@ -9,7 +9,7 @@ My main interests are focused on novel imaging algorithms and their applications
 ### Fundamental Physics
 ---
 * searches for discrete symmetry violations ([CPT](#anchor-discrete))
-* quantum correlations in (relatively) high-energy photon systems 
+* quantum correlations in (relatively) high-energy photon systems ([QC](#anchor-quantum))
 * mirror matter searches 
 * searches for new type of nuclear matter 
 
@@ -33,6 +33,12 @@ In our research published in [Physics Review D](https://journals.aps.org/prd/abs
 limits on particle-antiparticle decay width difference for three neutral flavour meson families|  limits on particle-antiparticle mass difference in the charm sector
 :----------------------:|:----------------------:
  ![](/images/cpt/dG_in_sectors-1.png) |![](/images/cpt/deltam-1.png)
+
+<a name="anchor-quantum"></a>
+## Quantum correlations in  high-energy photon systems 
+
+[Scientific Reports](https://www.nature.com/articles/s41598-024-60472-1)
+ (https://arxiv.org/abs/2505.09023)
 
 <a name="anchor-impet"></a>
 ## IMPET (Industrial Multiphoton PET Tomography)
@@ -65,7 +71,6 @@ Till 2024, I was involved in the coordination of the J-PET Total Body Software g
 responsible for the preparation of medical data processing and image
 reconstruction software for the next generation of cost-effective
 total-body PET tomography scanners. This involved software development [tools](https://github.com/JPETTomography), including image reconstruction algorithms, Monte Carlo simulations, and applications of the machine learning methods to PET tomography. Previously, I coordinated the development of data analysis [framework](https://www.sciencedirect.com/science/article/pii/S2352711020300509). 
-
 
 In this study published in [Medical Physics](https://onlinelibrary.wiley.com/share/author/TIMWB9IG3TXSQWSUDANR?target=10.1002/mp.17627), we optimized the total-body J-PET geometry for both two-gamma and multi-gamma tomography using Monte Carlo simulations.
 
