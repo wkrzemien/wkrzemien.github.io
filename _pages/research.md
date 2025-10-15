@@ -86,5 +86,5 @@ In this study published in [Medical Physics](https://onlinelibrary.wiley.com/sha
 ## Other projects:
 ---
 * Application of Convolutional Neural Networks for LHCb electromagnetic calorimeter  
-* Search for eta mesic nuclei (WASA). It was a topic of my PhD thesis realized partly in Forschungszentrum Juelich, Germany and of my first post-doc:  [article](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.87.035204) based on my Phd thesis. Another [article](https://www.sciencedirect.com/science/article/pii/S0375947417300064) is based on the analysis done together with Magdalena Skurzok. Other articles about the same topic can be found [here](http://koza.if.uj.edu.pl/publications/wasa-at-cosy).     
+* Search for eta mesic nuclei (WASA). It was a topic of my PhD thesis realized partly in Forschungszentrum Juelich, Germany and of my first post-doc:  [Phys. Rev. C 87 (2013) 035204](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.87.035204) based on my Phd thesis. Another [Nucl. Phys. A 959 (2017) 102](https://www.sciencedirect.com/science/article/pii/S0375947417300064) is based on the analysis done together with Magdalena Skurzok. Other articles about the same topic can be found [here](http://koza.if.uj.edu.pl/publications/wasa-at-cosy).     
 
