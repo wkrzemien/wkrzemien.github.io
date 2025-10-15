@@ -37,8 +37,9 @@ limits on particle-antiparticle decay width difference for three neutral flavour
 <a name="anchor-quantum"></a>
 ## Quantum correlations in  high-energy photon systems 
 
-[Scientific Reports](https://www.nature.com/articles/s41598-024-60472-1)
- (https://arxiv.org/abs/2505.09023)
+[Sci Rep 14, 9672 (2024)](https://www.nature.com/articles/s41598-024-60472-1)
+
+[Eur. Phys. J. C (2025) 85: 1115](https://link.springer.com/content/pdf/10.1140/epjc/s10052-025-14862-y)
 
 <a name="anchor-impet"></a>
 ## IMPET (Industrial Multiphoton PET Tomography)
