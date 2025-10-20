@@ -63,6 +63,8 @@ National Supercomputing Infrastructure for [EuroHPC PL](https://www.ncbj.gov.pl/
 * multi-photon (e.g. 2+1) PET tomography 
 * application of Machine Learning methods for PET tomography
 
+Our recent studies of the positional resolution improvement by incorporating prompt gamma:  [Computer Science•26(SI) 2025](https://journals.agh.edu.pl/csci/article/view/7057)).
+
 I have been a member of the OpenGate steering committee since 2019. We are especially focused on the assessment of the total-body scanners and on the development of novel PET methods, e.g. positronium tomography, using GATE (see our overview article, published in Physics in Medicine and Biology: [link](https://iopscience.iop.org/article/10.1088/1361-6560/abf276)).
 
 <a name="anchor-tbs"></a>
