@@ -16,7 +16,7 @@ I have been involved in various scientific projects which included the developme
 
 {% include gallery %}
 
-[Github repository of the Framework](https://github.com/JPETTomography/j-pet-framework)
+[Github repository of the Framework](https://github.com/wkrzemien/j-pet-framework)
 
 
 I was the initiator and for years the leader of the team that has been developing an open-source data analysis software platform  
@@ -47,7 +47,6 @@ In the frame of the LHCb project, I participated in the development and implemen
 
 More on the Message Queue implementation in DIRAC can be found [here](https://www.epj-conferences.org/articles/epjconf/pdf/2019/19/epjconf_chep2018_03018.pdf). Some information on the concept of the distributed agents
 called Pilots is given [here](https://iopscience.iop.org/article/10.1088/1742-6596/898/9/092024).
-The list of the main contributors to DIRAC code can be found under this [link](https://github.com/DIRACGrid/DIRAC/blob/integration/AUTHORS.rst).
 
 ---
 # Other staff 
