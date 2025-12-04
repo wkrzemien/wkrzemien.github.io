@@ -41,6 +41,8 @@ limits on particle-antiparticle decay width difference for three neutral flavour
 
 [Eur. Phys. J. C (2025) 85: 1115](https://link.springer.com/content/pdf/10.1140/epjc/s10052-025-14862-y)
 
+![](/images/correlations/10052_85_10.png)
+
 <a name="anchor-impet"></a>
 ## IMPET (Industrial Multiphoton PET Tomography)
 Link to the project [website](https://pet.ncbj.gov.pl/)
@@ -63,7 +65,7 @@ National Supercomputing Infrastructure for [EuroHPC PL](https://www.ncbj.gov.pl/
 * multi-photon (e.g. 2+1) PET tomography 
 * application of Machine Learning methods for PET tomography
 
-Our recent studies of the positional resolution improvement by incorporating prompt gamma:  [Computer Science•26(SI) 2025](https://journals.agh.edu.pl/csci/article/view/7057)).
+Our recent studies of the positional resolution improvement by incorporating prompt gamma:  [Computer Science•26(SI) 2025](https://journals.agh.edu.pl/csci/article/view/7057).
 
 I have been a member of the OpenGate steering committee since 2019. We are especially focused on the assessment of the total-body scanners and on the development of novel PET methods, e.g. positronium tomography, using GATE (see our overview article, published in Physics in Medicine and Biology: [link](https://iopscience.iop.org/article/10.1088/1361-6560/abf276)).
 
@@ -73,7 +75,7 @@ I have been a member of the OpenGate steering committee since 2019. We are espec
 Till 2024, I was involved in the coordination of the J-PET Total Body Software group,
 responsible for the preparation of medical data processing and image
 reconstruction software for the next generation of cost-effective
-total-body PET tomography scanners. This involved software development [tools](https://github.com/JPETTomography), including image reconstruction algorithms, Monte Carlo simulations, and applications of the machine learning methods to PET tomography. Previously, I coordinated the development of data analysis [framework](https://www.sciencedirect.com/science/article/pii/S2352711020300509). 
+total-body PET tomography scanners. This involved software development, including image reconstruction algorithms, Monte Carlo simulations, and applications of the machine learning methods to PET tomography. Previously, I coordinated the development of data analysis [framework](https://www.sciencedirect.com/science/article/pii/S2352711020300509). 
 
 In this study published in [Medical Physics](https://onlinelibrary.wiley.com/share/author/TIMWB9IG3TXSQWSUDANR?target=10.1002/mp.17627), we optimized the total-body J-PET geometry for both two-gamma and multi-gamma tomography using Monte Carlo simulations.
 
@@ -87,6 +89,6 @@ In this study published in [Medical Physics](https://onlinelibrary.wiley.com/sha
 
 ## Other projects:
 ---
-* Application of Convolutional Neural Networks for LHCb electromagnetic calorimeter  
+* Application of Convolutional Neural Networks for LHCb electromagnetic calorimeter cluster reconstruction (see [here](https://pubs.aip.org/aip/acp/article/3061/1/040002/3275598/Machine-learning-solutions-for-cluster))
 * Search for eta mesic nuclei (WASA). It was a topic of my PhD thesis realized partly in Forschungszentrum Juelich, Germany and of my first post-doc: this article [Phys. Rev. C 87 (2013) 035204](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.87.035204) is based on my Phd thesis. Another one [Nucl. Phys. A 959 (2017) 102](https://www.sciencedirect.com/science/article/pii/S0375947417300064) is based on the analysis done together with Magdalena Skurzok. Other articles about the same topic can be found [here](http://koza.if.uj.edu.pl/publications/wasa-at-cosy).     
 
