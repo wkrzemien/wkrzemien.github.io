@@ -4,7 +4,10 @@ title: "Research Interests"
 permalink: /research/
 author_profile: true
 ---
+
 My main interests are focused on novel imaging algorithms and their applications, machine learning techniques for noise reduction, and scientific software development. Last but not least, I am a curious physicist who wants to understand the rules governing the quantum world, engaged in (too many ;-)) fundamental research including tests of discrete symmetries and quantum entanglement.
+
+---
 
 ### Fundamental Physics
 ---
@@ -22,7 +25,7 @@ My main interests are focused on novel imaging algorithms and their applications
 # Projects:
 
 <a name="anchor-discrete"></a>
-## Discrete symmetries 
+## Discrete symmetries 🟢 
 
 My interests are focused on the experimental testing of discrete symmetries in ([LHCb](https://lhcb-public.web.cern.ch/) and previously in [J-PET](http://koza.if.uj.edu.pl/pet/) and [KLOE-2](http://w3.lnf.infn.it/research/particle-physics/kloe-2/?lang=en)) collaborations. Those topics are related to fundamental questions in modern physics, e.g. the asymmetry of matter over antimatter, the basics of quantum mechanics (quantum oscillations, entanglement, and decoherence phenomena), and the validity of the fundamental CPT and Lorentz symmetries.
 
@@ -35,7 +38,7 @@ limits on particle-antiparticle decay width difference for three neutral flavour
  ![](/images/cpt/dG_in_sectors-1.png) |![](/images/cpt/deltam-1.png)
 
 <a name="anchor-quantum"></a>
-## Quantum correlations in  high-energy photon systems 
+## Quantum correlations in  high-energy photon systems 🟢 
 
 [Sci Rep 14, 9672 (2024)](https://www.nature.com/articles/s41598-024-60472-1)
 
@@ -44,14 +47,14 @@ limits on particle-antiparticle decay width difference for three neutral flavour
 ![](/images/correlations/10052_85_10.png)
 
 <a name="anchor-impet"></a>
-## IMPET (Industrial Multiphoton PET Tomography)
+## IMPET (Industrial Multiphoton PET Tomography) 🟢 
 Link to the project [website](https://pet.ncbj.gov.pl/)
 
 ![](/images/impet/post1-min.png)
 
 
 <a name="anchor-jpet"></a>
-## Positron Emission Tomography
+## Positron Emission Tomography 🟢 
 
 * Image reconstruction algorithms for total-body PET scanners
 * image corrections 
@@ -63,7 +66,7 @@ Our recent studies of the positional resolution improvement by incorporating pro
 I have been a member of the OpenGate steering committee since 2019. We are especially focused on the assessment of the total-body scanners and on the development of novel PET methods, e.g. positronium tomography, using GATE (see our overview article, published in Physics in Medicine and Biology: [link](https://iopscience.iop.org/article/10.1088/1361-6560/abf276)).
 
 <a name="anchor-tbs"></a>
-### Total Body Software (2021-2024) with J-PET
+### Total Body Software (2021-2024) with J-PET ⚫ 
 
 Till 2024, I was involved in the coordination of the J-PET Total Body Software group,
 responsible for the preparation of medical data processing and image
@@ -87,9 +90,11 @@ In this study published in [Medical Physics](https://onlinelibrary.wiley.com/sha
 
 ## Service & Coordination Roles
 
-**OpenGate Steering Committee** — member since 2019.
+**OpenGate Steering Committee**  🟢 — member since 2019.
 
-**EuroHPC PL** — NCBJ coordinator of the National Supercomputing Infrastructure project (2021–2023), part of the European initiative to make Europe a world leader in supercomputing. Within this role I led the NCBJ contribution: a software platform for quantum simulations and medical imaging, encompassing (1) Monte Carlo simulation tools for tracking the evolution of quantum correlations in photon systems emitted from patients' bodies, (2) novel image reconstruction algorithms for multiphoton tomography,  and (3) a service for generating realistic total-body scanner training data using Generative Adversarial Networks — addressing the chronic scarcity of labelled data for deep learning in medical imaging. → [EuroHPC PL project](https://www.ncbj.gov.pl/en/projekt/eurohpc-pl-national-supercomputing-infrastructure-eurohpc)
+**EuroHPC PL** ⚫ — NCBJ coordinator of the National Supercomputing Infrastructure project (2021–2023), part of the European initiative to make Europe a world leader in supercomputing. Within this role I led the NCBJ contribution: a software platform for quantum simulations and medical imaging, encompassing (1) Monte Carlo simulation tools for tracking the evolution of quantum correlations in photon systems emitted from patients' bodies, (2) novel image reconstruction algorithms for multiphoton tomography,  and (3) a service for generating realistic total-body scanner training data using Generative Adversarial Networks — addressing the chronic scarcity of labelled data for deep learning in medical imaging. → [EuroHPC PL project](https://www.ncbj.gov.pl/en/projekt/eurohpc-pl-national-supercomputing-infrastructure-eurohpc)
 ![](/images/eurohpc/platform_v2-1-min.jpeg)
 
-**J-PET Analysis Framework** — initiator and long-term leader of the open-source data analysis platform for the J-PET project. See the [Software](/software/) page for details.
+**J-PET Analysis Framework** ⚫ — initiator and long-term leader of the open-source data analysis platform for the J-PET project. See the [Software](/software/) page for details.
+
+**DIRAC** ⚫ — earlier, I contributed to the development of the Message Queue architecture (RabbitMQ, ActiveMQ) and Pilot Loggers within the [DIRAC](https://github.com/DIRACGrid/DIRAC) distributed computing framework, used by LHCb and several other large scientific experiments. Full details on the [Software](/software/) page.
