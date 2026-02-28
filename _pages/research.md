@@ -49,13 +49,6 @@ Link to the project [website](https://pet.ncbj.gov.pl/)
 
 ![](/images/impet/post1-min.png)
 
-<a name="anchor-eurohpc"></a>
-## EuroHPC PL:
----
-From 2021 to 2023, I was the NCBJ coordinator of the
-National Supercomputing Infrastructure for [EuroHPC PL](https://www.ncbj.gov.pl/en/projekt/eurohpc-pl-national-supercomputing-infrastructure-eurohpc) project.
-
-![](/images/eurohpc/platform_v2-1-min.jpeg)
 
 <a name="anchor-jpet"></a>
 ## Positron Emission Tomography
@@ -86,9 +79,17 @@ In this study published in [Medical Physics](https://onlinelibrary.wiley.com/sha
 
 
 
-
 ## Other projects:
 ---
 * Application of Convolutional Neural Networks for LHCb electromagnetic calorimeter cluster reconstruction (see [here](https://pubs.aip.org/aip/acp/article/3061/1/040002/3275598/Machine-learning-solutions-for-cluster))
-* Search for eta mesic nuclei (WASA). It was a topic of my PhD thesis realized partly in Forschungszentrum Juelich, Germany and of my first post-doc: this article [Phys. Rev. C 87 (2013) 035204](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.87.035204) is based on my Phd thesis. Another one [Nucl. Phys. A 959 (2017) 102](https://www.sciencedirect.com/science/article/pii/S0375947417300064) is based on the analysis done together with Magdalena Skurzok. Other articles about the same topic can be found [here](http://koza.if.uj.edu.pl/publications/wasa-at-cosy).     
+* Search for eta mesic nuclei (WASA). It was a topic of my PhD thesis realized partly in Forschungszentrum Juelich, Germany and of my first post-doc: this article [Phys. Rev. C 86 (2013) 035204](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.87.035204) is based on my Phd thesis. Another one [Nucl. Phys. A 959 (2017) 102](https://www.sciencedirect.com/science/article/pii/S0375947417300064) is based on the analysis done together with Magdalena Skurzok. Other articles about the same topic can be found [here](http://koza.if.uj.edu.pl/publications/wasa-at-cosy).     
 
+
+## Service & Coordination Roles
+
+**OpenGate Steering Committee** — member since 2019.
+
+**EuroHPC PL** — NCBJ coordinator of the National Supercomputing Infrastructure project (2021–2023), part of the European initiative to make Europe a world leader in supercomputing. Within this role I led the NCBJ contribution: a software platform for quantum simulations and medical imaging, encompassing (1) Monte Carlo simulation tools for tracking the evolution of quantum correlations in photon systems emitted from patients' bodies, (2) novel image reconstruction algorithms for multiphoton tomography,  and (3) a service for generating realistic total-body scanner training data using Generative Adversarial Networks — addressing the chronic scarcity of labelled data for deep learning in medical imaging. → [EuroHPC PL project](https://www.ncbj.gov.pl/en/projekt/eurohpc-pl-national-supercomputing-infrastructure-eurohpc)
+![](/images/eurohpc/platform_v2-1-min.jpeg)
+
+**J-PET Analysis Framework** — initiator and long-term leader of the open-source data analysis platform for the J-PET project. See the [Software](/software/) page for details.
