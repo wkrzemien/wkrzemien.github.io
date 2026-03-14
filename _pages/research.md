@@ -13,8 +13,7 @@ My main interests are focused on novel imaging algorithms and their applications
 ---
 * searches for discrete symmetry violations ([CPT](#anchor-discrete))
 * quantum correlations in (relatively) high-energy photon systems ([QC](#anchor-quantum))
-* mirror matter searches 
-* searches for new type of nuclear matter 
+* searches for new type of nuclear matter ([eta-mesic](#anchor-mesic))
 
 ### Methods ans applied studies:
 ---
@@ -59,6 +58,7 @@ I contributed to the theoretical framework and data analysis for two studies in 
 
 ---
 
+<a name="anchor-mesic"></a>
 ### Search for Eta Mesic Nuclei (WASA-at-COSY, COSY-11)
 
 ⚫ **Completed** &nbsp;|&nbsp; **Role:** PhD thesis and first postdoc &nbsp;|
@@ -76,7 +76,9 @@ My doctoral work, carried out partly at Forschungszentrum Jülich (Germany), foc
 
 🟢 **Active** &nbsp;|&nbsp; **Role:** PI &nbsp;|&nbsp; Foundation for Polish Science, First Team FENG &nbsp;|&nbsp; Budget: ~940K EUR
 
-IMPET introduces a novel approach to industrial imaging by combining multiphoton PET technology with quantum decoherence modelling. Where conventional two-gamma PET uses a single pair of annihilation photons, multiphoton detection captures richer event information. A distinctive feature of the project is the use of quantum correlation properties of the photon system as a complementary source of information about material properties, going beyond what spatial distributions alone can provide.
+→ [IMPET project website](https://pet.ncbj.gov.pl/)
+
+IMPET introduces a novel approach to industrial imaging by combining multiphoton PET technology with quantum decoherence modelling. Where conventional two-gamma PET uses a single pair of annihilation photons, multiphoton detection captures richer event information. A distinctive feature of the project is the use of quantum correlation properties of the photon system as a complementary source of information about material properties.
 
 The project targets two concrete industrial applications. The first is **dynamic flow imaging** in granular systems and opaque fluids — such as liquid metals used in the cooling of nuclear reactors or high-performance electronics — environments inaccessible to optical methods. The second is **3D imaging of porous materials**, including membranes used in seawater desalination and renewable energy systems, enabling precise quantification and localisation of pore sizes and structural defects.
 
@@ -85,7 +87,6 @@ On the methodology side, AI-based correction and noise reduction techniques will
 The project is conducted in scientific collaboration with [Beatrix Hiesmayr](https://it-u.at/en/research/professors/beatrix-c-hiesmayr/) (IT:U and University of Vienna), a leading expert in quantum information and entanglement, and [David Sarrut](https://dsarrut.github.io) (Laboratoire CREATIS, Lyon), a key developer of the GATE simulation package. Industrial partnership with [Creotech Instruments S.A.](https://creotech.pl/) supports the development of a cost-effective scanner design targeting both scientific and industrial research environments.
 
 ![](/images/impet/post1-min.png)
-→ [IMPET project website](https://pet.ncbj.gov.pl/)
 
 ---
 
