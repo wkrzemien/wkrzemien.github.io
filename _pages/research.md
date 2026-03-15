@@ -15,7 +15,7 @@ My main interests are focused on novel imaging algorithms and their applications
 * quantum correlations in (relatively) high-energy photon systems ([QC](#anchor-quantum))
 * searches for new type of nuclear matter ([eta-mesic](#anchor-mesic))
 
-### Methods ans applied studies:
+### Methods and applied studies:
 ---
 * scientific software development
 * industrial applications for PET imaging ([IMPET](#anchor-impet))
@@ -32,11 +32,11 @@ My interests are focused on the experimental testing of discrete symmetries, whi
 
 CPT symmetry - the combined invariance under charge conjugation, parity, and time reversal -  is one of the cornerstones of the Standard Model, thought to be exactly conserved by Nature. However, small CPT-violating (CPTV) effects are admissible in several theories beyond the Standard Model. One of the most sensitive methods to experimentally search for the CPTV effects is by studying the flavour mesons oscillations, approaching Planck-scale precision.
 
-In our research published in Physics Review D, we set new limits on the CPTV parameters in charm meson oscillations by taking advantage of the world's largest dataset of D0 mesons collected by the LHCb collaboration. Our results provide the most stringent constraints on CPT symmetry violation in the charm sector - two orders of magnitude tighter than previous bounds. They were incorporated into the 2025 edition of the Particle Data Group review.  
+In our research published in Physical Review D, we set new limits on the CPTV parameters in charm meson oscillations by taking advantage of the world's largest dataset of D0 mesons collected by the LHCb collaboration. Our results provide the most stringent constraints on CPT symmetry violation in the charm sector - two orders of magnitude tighter than previous bounds. They were incorporated into the 2025 edition of the Particle Data Group review.  
 
-limits on particle-antiparticle decay width difference for three neutral flavour meson families|  limits on particle-antiparticle mass difference in the charm sector
-:----------------------:|:----------------------:
- ![](/images/cpt/dG_in_sectors-1.png) |![](/images/cpt/deltam-1.png)
+| limits on particle-antiparticle decay width difference for three neutral flavour meson families | limits on particle-antiparticle mass difference in the charm sector |
+| :---: | :---: |
+| ![](/images/cpt/dG_in_sectors-1.png) |![](/images/cpt/deltam-1.png) |
 
 → [Physical Review D 110, 055021 (2024)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.055021) &nbsp;|&nbsp; → [PDG 2025 entry](https://pdglive.lbl.gov/DataBlock.action?node=S032CPT)
 
@@ -111,8 +111,9 @@ I led the Total Body Software group within the J-PET collaboration, responsible 
 
 A key study optimised total-body J-PET geometry for both two-gamma and multi-gamma tomography using Monte Carlo simulations. 
 
-:----------------------:|:----------------------:
- ![](/images/total_geometry/Fig2-1-1.jpeg) |![](/images/total_geometry/Fig2bis-1-1.jpeg)
+| | |
+| :---: | :---: |
+| ![](/images/total_geometry/Fig2-1-1.jpeg) | ![](/images/total_geometry/Fig2bis-1-1.jpeg) |.
 
  ![](/images/total_geometry/Fig10_update-1.jpeg) 
 
