@@ -98,6 +98,7 @@ I contributed to the assessment of total-body scanners, the development of novel
 Also I participated in studies of  possible improvement in positional resolution by incorporating prompt gamma detection
 , and the application of machine learning for noise reduction and signal enhancement.
 
+→ [Phys. Med. Biol. 71 175026 (2026)](https://iopscience.iop.org/article/10.1088/1361-6560/ae9c83)
 → [Computer Science 26(SI) (2025)](https://journals.agh.edu.pl/csci/article/view/7057)
 
 ---
