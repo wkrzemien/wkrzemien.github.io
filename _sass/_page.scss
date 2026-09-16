@@ -394,6 +394,35 @@
   }
 }
 
+/*
+   News list
+   ========================================================================== */
+
+dl.news-list {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 1em;
+  row-gap: 0.5em;
+
+  dt {
+    font-weight: bold;
+    white-space: nowrap;
+  }
+
+  dd {
+    margin: 0;
+  }
+
+  @include breakpoint(max-width $small) {
+    grid-template-columns: 1fr;
+    row-gap: 0.25em;
+
+    dt {
+      margin-top: 0.75em;
+    }
+  }
+}
+
 .page__related-title {
   margin-bottom: 10px;
   font-size: $type-size-6;

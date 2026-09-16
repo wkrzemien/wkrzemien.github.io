@@ -42,6 +42,32 @@ Earlier in my career, I was involved in the [KLOE-2](http://w3.lnf.infn.it/resea
 I am fluent in English, French, Spanish and Polish.
 I hold an MSc in Telecommunications from [AGH](https://www.agh.edu.pl/en/) University of Science and Technology, as well as an MSc and PhD in Physics from [Jagiellonian University](https://en.uj.edu.pl/en_GB/start), Poland.
 
+## News
+
+<!--Sep 07, 2026-->
+<!--: We are just starting the third edition of  [WMLQ2026](https://events.ncbj.gov.pl/event/468/).-->
+
+Sep 07, 2026
+: Our new MC positronium model published in [Phys. Med. Biol. 71 175026](https://iopscience.iop.org/article/10.1088/1361-6560/ae9c83).
+
+{: .news-list}
+
+<!--Nov 07, 2025-->
+<!--: Interview (in Polish) for the PULSAR podcast about the IMPET project, quantum correlations, and the role of AI in physics: [link](https://www.projektpulsar.pl/struktura/2321583,1,podkast-153-wojciech-krzemien-badania-podstawowe-bez-nich-nauka-umiera.read), [YouTube](https://youtu.be/4FEFi90UH1Y?si=STJUU_bw3_2rXcT4).-->
+
+<!--2025-->
+<!--: Our paper on quantum polarization correlations in high-energy photon systems was published in [Eur. Phys. J. C 85, 1115 (2025)](https://link.springer.com/content/pdf/10.1140/epjc/s10052-025-14862-y).-->
+
+<!--2025-->
+<!--: New results on MC modelling and image reconstruction development published in [Computer Science 26(SI) (2025)](https://journals.agh.edu.pl/csci/article/view/7057).-->
+
+<!--2024-->
+<!--: Our new limits on CPT violation in the charm meson sector were published in [Physical Review D 110, 055021 (2024)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.055021), and later incorporated into the [2025 PDG review](https://pdglive.lbl.gov/DataBlock.action?node=S032CPT).-->
+
+<!--2024-->
+<!--: Total-body J-PET geometry optimisation study published in [Medical Physics (2024)](https://onlinelibrary.wiley.com/share/author/TIMWB9IG3TXSQWSUDANR?target=10.1002/mp.17627).-->
+<!--{: .news-list}-->
+
 ## Contact
 <br> High Energy Physics Division
 <br> National Centre for Nuclear Research
