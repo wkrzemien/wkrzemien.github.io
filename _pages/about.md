@@ -47,6 +47,9 @@ I hold an MSc in Telecommunications from [AGH](https://www.agh.edu.pl/en/) Unive
 <!--Sep 07, 2026-->
 <!--: We are just starting the third edition of  [WMLQ2026](https://events.ncbj.gov.pl/event/468/).-->
 
+Nov 13, 2026
+: Talk on a multi-channel positronium decay source model in GATE and poster on three-photon Bayesian imaging of ortho-positronium presented at [IEEE NSS MIC RTSD 2026](https://nssmic.ieee.org/2026/) in Granada.
+
 Sep 07, 2026
 : Our new MC positronium model published in [Phys. Med. Biol. 71 175026](https://iopscience.iop.org/article/10.1088/1361-6560/ae9c83).
 
