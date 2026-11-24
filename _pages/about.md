@@ -50,6 +50,12 @@ I hold an MSc in Telecommunications from [AGH](https://www.agh.edu.pl/en/) Unive
 Nov 13, 2026
 : Talk on a multi-channel positronium decay source model in GATE and poster on three-photon Bayesian imaging of ortho-positronium presented at [IEEE NSS MIC RTSD 2026](https://nssmic.ieee.org/2026/) in Granada.
 
+Oct 29, 2026
+: Invited seminar "From Medical to Industrial Imaging with IMPET" at the CREATIS laboratory in Lyon.
+
+Oct 19, 2026
+: Poster "From Medical to Industrial Imaging with IMPET" presented at FNP Connect – 5th FNP Interdisciplinary Scientific Conference in Warsaw.
+
 Sep 07, 2026
 : Our new MC positronium model published in [Phys. Med. Biol. 71 175026](https://iopscience.iop.org/article/10.1088/1361-6560/ae9c83).
 
